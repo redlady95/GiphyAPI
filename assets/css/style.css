@@ -1,0 +1,17 @@
+/* .container{
+	padding-top: 5%;
+} */
+
+.jumbotron{
+	/*padding: 1%;*/
+	background-color:rebeccapurple;
+	color: #ffffff;
+}
+
+#topics{
+	padding: 3%;
+}
+
+div{
+	margin-bottom: 2%;
+}
